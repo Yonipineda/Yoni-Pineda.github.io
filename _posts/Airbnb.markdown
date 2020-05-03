@@ -3,7 +3,7 @@ layout: post
 title:  Optimal Airbnb
 date:   2020-05-03 16:04:55 +0300
 image:  Airbnb_logo.png
-tags:   Airbnb Link
+tags:   Cities
 ---
 <small>[Github Repo](https://github.com/Build-Wweek-AirBnB-Optimal-Price-1)</small>
 <small>[Airbnb App](https://build-wweek-airbnb-optimal-price-1.github.io/Marketing-Page/index.html)</small>
