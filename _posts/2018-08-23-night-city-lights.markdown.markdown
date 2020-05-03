@@ -12,7 +12,7 @@ tags:   Cities
 
 
 Optimal Airbnb was a Build-Week project I took part in for Unit 3. Along with two other
-Data-Scientist,[Benjamin Bishop](https://github.com/Benjamin1118) and [Celeste Griffin](https://github.com/celestebgriff), we created a REST API that sent jsonified data to the front-end.
+Data-Scientist, [Benjamin Bishop](https://github.com/Benjamin1118) and [Celeste Griffin](https://github.com/celestebgriff), we created a REST API that sent jsonified data to the front-end.
 
 We were provided with data from Berlin, Germany in particular and our job was to create an endpoint that would return
 a prediction of the price of a room depending on the what features the user gave.
