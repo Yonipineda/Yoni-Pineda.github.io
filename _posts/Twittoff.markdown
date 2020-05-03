@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Twittoff
-date:   2018-08-23 16:04:00 +0300
+date:   2020-05-03 16:04:00 +0300
 image:  twitter_birdy.png
-tags:   Rest
+tags:   Twittoff Link
 ---
 <small>[Github Repo](https://github.com/Yonipineda/Twittoff_App)</small>
-<small>[Github Repo](https://github.com/Yonipineda/Twittoff_App)</small>
+<small>[Twittoff](https://twittoff-brawl.herokuapp.com/)</small>
 
 
 ![]({{site.baseurl}}/img/twittoff.png)
@@ -21,25 +21,20 @@ Below is a quick demo of the app!
 
 ### A quick guide on how to set up the environment
 
-Feel free to try clone the app and try it out locally! 
+
+Feel free to clone the app and try it out locally!
 
 1. Clone the repo
-```
-git clone <git.repo>
-```
+> git clone <git.repo>
+
 2. Install requirements
-```
-pipenv install -r requirements.txt
-```
+> pipenv install -r requirements.txt
+
 3. Activate shell
-```
-pipenv shell
-```
+> pipenv shell
+
 4. Set the FLASK_APP environment variable
-```
-export FLASK_RUN=twittoff:APP
-```
+> export FLASK_RUN=twittoff:APP
+
 5. Run the app locally
-```
-flask run
-```
+> flask run
