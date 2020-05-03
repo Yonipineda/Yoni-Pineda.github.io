@@ -9,21 +9,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
+author-name:   Yoni Pineda
 author-avatar: 09.jpg
 
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Facebook handle
+linkedin:  https://linkedin.com/in/yoni-pineda-8a43841a3 # Add your linkedin handle
+twitter:   https://twitter.com/YonayYo # Add your twitter handle
+github: https://www.github.com/Yonipineda # Add your github handle
+email: yonipineda1010@icloud.com # Add your email handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Yoni # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
