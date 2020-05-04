@@ -8,7 +8,7 @@ tags:   Cities
 <small>[Github Repo](https://github.com/Build-Wweek-AirBnB-Optimal-Price-1)</small>
 <small>[Airbnb App](https://build-wweek-airbnb-optimal-price-1.github.io/Marketing-Page/index.html)</small>
 
-![]({{site.baseurl}}/img/Optimal_Air.png)
+![]({{site.baseurl}}/img/airbnb/Optimal_Air.png)
 
 
 Optimal Airbnb was a Build-Week project I took part in for Unit 3. Along with two other
@@ -19,9 +19,9 @@ a prediction of the price of a room depending on the what features the user gave
 
 For example, Users have these options to choose from:
 
- ![]({{site.baseurl}}/img/airbnb_opt.png)
+ ![]({{site.baseurl}}/img/airbnb/airbnb_opt.png)
 
 
 Depending on what they give, our Xgboost trained model will return a price:
 
-![]({{site.baseurl}}/img/airbnb_pred.png)
+![]({{site.baseurl}}/img/airbnb/airbnb_pred.png)
