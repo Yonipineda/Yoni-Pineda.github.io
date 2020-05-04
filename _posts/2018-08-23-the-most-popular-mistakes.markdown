@@ -15,7 +15,9 @@ tags:   [Lifehacks]
 
 We all know, in terms of overall quality, performance, and spec; PC reigns king — also in quantity and quality of games.
 But, I happen to have both the Xbox and Playstation console, spanning back to their original release and, throughout the passage of time, have grown both nostalgic and enamored with them.
+
 Their rivalry is known by gamers and relatively modest gaming fans, of how passionate and even at its worst, toxic it can get. Many swear by Playstation; the home of not only some of the greatest exclusive games but, some of the greatest games in history. On the other side, Xbox is beloved and considered the superior console in terms of performance and quality, despite its exclusives being subpar compared with Playstation. Once more, people grow excited in anticipation for the release of the new generation of both these beloved consoles, with fans loyal to their respective console hoping their gaming system will come out victorious in what could be, the last generation of these consoles in the manner we’ve known them — I speculate, of course.
+
 For this analysis, I wanted to explore the history of their competition and the outcome in terms of sales within the previous generations. I also delved a bit deeper into why a certain console performed better than the other, looking at their exclusive’s, specs, and public reception. Perhaps, upon reflection we can get a good idea on what fans liked and what gave the winning console its victory.
 Without any further delay, let’s look at some stats and data, maybe even build a clearer picture of what qualities the next gen consoles should strive to hit in order to be the favorite among fans, and the general community.
 
