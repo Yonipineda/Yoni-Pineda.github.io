@@ -8,16 +8,19 @@ permalink: /about/
 ## Introduction
 Hi, my name is Yoni Pineda! Im a Data Science student at [Lambda School](https://lambdaschool.com/). I enjoy building REST API's to bring neat Machine-Learning features to Web and Mobile apps. Im experienced in computer vision, Natural Language Processing, Heroku and AWS deployment, Data Pipelines, Software Engineering, and managing teams.
 
+To get a look at my projects, refer to the home page! All my post and articles can be found there. 
+
+---
 
 ## Experience
 
 From May 12th, 2020 - Ongoing: I am a [Team Lead](https://lambdaschool.com/careers) for the [dspt7](https://lambdaschool.com/courses/data-science) cohort.
 
+---
 
 ## Skills
-<small>Tech Stack</small>
 
-### Languages
+#### Languages
 
 - [Python](https://www.python.org/downloads/release/python-374/)
 
@@ -30,7 +33,7 @@ From May 12th, 2020 - Ongoing: I am a [Team Lead](https://lambdaschool.com/caree
 - [Javascript](https://www.javascript.com/)
 
 
-### Frameworks and Python Environments
+#### Frameworks and Python Environments
 
 - [FastApi](https://fastapi.tiangolo.com/)
 
@@ -41,7 +44,7 @@ From May 12th, 2020 - Ongoing: I am a [Team Lead](https://lambdaschool.com/caree
 - [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
 
-### Text Editors and Tools
+#### Text Editors and Tools
 
 - [Atom](https://atom.io/)
 
@@ -50,7 +53,7 @@ From May 12th, 2020 - Ongoing: I am a [Team Lead](https://lambdaschool.com/caree
 - [Github](https://github.com/)
 
 
-### Amazon Web Services Experience
+#### Amazon Web Services Experience
 
 - [AWS ElasticBeanstalk](https://aws.amazon.com/elasticbeanstalk/)
 
@@ -59,7 +62,7 @@ From May 12th, 2020 - Ongoing: I am a [Team Lead](https://lambdaschool.com/caree
 - [AWS S3 Bucket](https://aws.amazon.com/s3/)
 
 
-### Databases
+#### Databases
 
 - [Postgresql](https://www.postgresql.org/)
 
@@ -68,7 +71,7 @@ From May 12th, 2020 - Ongoing: I am a [Team Lead](https://lambdaschool.com/caree
 - [SQLite](https://www.sqlite.org/index.html)
 
 
-### Data-Science specific skills
+#### Data-Science specific skills
 
 - [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis)
   - [Numpy](https://numpy.org/)
