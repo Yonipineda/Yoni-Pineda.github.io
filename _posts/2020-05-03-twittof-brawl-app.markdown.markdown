@@ -3,7 +3,7 @@ layout: post
 title:  Twittoff
 date:   2020-05-03 16:04:00 +0300
 image:  twitter_birdy.png
-tags:   [twitter]
+tags:   twitter
 ---
 <small>[Github Repo](https://github.com/Yonipineda/Twittoff_App)</small>
 <small>[Twittoff](https://twittoff-brawl.herokuapp.com/)</small>
