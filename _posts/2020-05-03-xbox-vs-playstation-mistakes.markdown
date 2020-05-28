@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Xbox and Playstation Rivalry Throughout Time
+title:  Console Rivalry
 date:   2020-05-03 16:05:55 +0300
-image:  ps-vs-xbox.jpg
+image:  xbox_ps_bnb.png
 tags:   [Lifehacks]
 ---
 <small>[Github Repo](https://github.com/Yonipineda/Console-Analysis-Project)</small>
