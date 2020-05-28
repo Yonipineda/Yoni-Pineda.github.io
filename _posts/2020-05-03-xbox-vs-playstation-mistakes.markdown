@@ -3,7 +3,7 @@ layout: post
 title:  Console Rivalry
 date:   2020-05-03 16:05:55 +0300
 image:  xbox_ps_bnb.png
-tags:   [Lifehacks]
+tags:   [Console]
 ---
 <small>[Github Repo](https://github.com/Yonipineda/Console-Analysis-Project)</small>
 <small>[Medium Article](https://medium.com/@yonipineda1010/xbox-and-playstation-rivalry-throughout-time-5633470d85fc)</small>
