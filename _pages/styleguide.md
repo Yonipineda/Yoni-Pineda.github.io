@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: Resources
 permalink: /styleguide/
 image: 11.jpg
 ---
